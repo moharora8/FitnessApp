@@ -1,0 +1,383 @@
+{
+    "exercises": [
+        {
+            "id": "1",
+            "title": "5 Moves For Best Booty",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/active-adult-athlete-body-416778.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/5-moves-for-best-booty.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "2",
+            "title": "Abs Workout",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/brandless-VKnjdEesFxw-unsplash.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/abs_workout.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "3",
+            "title": "Abs Workout 2",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/cathy-pham-3jAN9InapQI-unsplash.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/abs_workout_2.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "4",
+            "title": "Armpit Fat Workout",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/christopher-campbell-kFCdfLbu6zA-unsplash.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/armpit_fat_workout.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "5",
+            "title": "Body Weight Exercise",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/juan-pablo-rodriguez-X6jtULYJQz8-unsplash.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/body_weight_exercise.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "6",
+            "title": "Butt Kicks",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/mr-lee-f4RBYsY2hxA-unsplash.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/butt_kicks.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "7",
+            "title": "Butt Legs Thighs",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/selective-focus-photography-of-woman-in-pink-shirt-1199590.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/butt_legs_thighs.gif",
+            "seconds": "30"
+        },
+
+
+
+        {
+            "id": "8",
+            "title": "5 Moves For Best Booty",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/active-adult-athlete-body-416778.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/butt_workout.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "9",
+            "title": "Abs Workout",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/brandless-VKnjdEesFxw-unsplash.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/butt_workout_2.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "10",
+            "title": "Abs Workout 2",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/cathy-pham-3jAN9InapQI-unsplash.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/cardio.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "11",
+            "title": "Armpit Fat Workout",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/christopher-campbell-kFCdfLbu6zA-unsplash.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/cardio_1.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "12",
+            "title": "Body Weight Exercise",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/juan-pablo-rodriguez-X6jtULYJQz8-unsplash.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/cardio_2.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "13",
+            "title": "Butt Kicks",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/mr-lee-f4RBYsY2hxA-unsplash.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/cardio_3.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "14",
+            "title": "Butt Legs Thighs",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/selective-focus-photography-of-woman-in-pink-shirt-1199590.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/cardio_abs.gif",
+            "seconds": "30"
+        },
+
+
+        {
+            "id": "15",
+            "title": "Cardio For Tone Abs",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/active-adult-athlete-body-416778.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/cardio_for_tone_abs.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "16",
+            "title": "Cardio Sculpting",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/brandless-VKnjdEesFxw-unsplash.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/cardio_sculpting.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "17",
+            "title": "Cardio Sculpting Workout",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/cathy-pham-3jAN9InapQI-unsplash.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/cardio_sculpting_workout.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "18",
+            "title": "Exercise Abs",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/christopher-campbell-kFCdfLbu6zA-unsplash.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/excercise_abs.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "19",
+            "title": "Exercise",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/juan-pablo-rodriguez-X6jtULYJQz8-unsplash.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/exercise.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "20",
+            "title": "Fitspo",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/mr-lee-f4RBYsY2hxA-unsplash.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/fitspo.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "21",
+            "title": "Floor Exercise",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/selective-focus-photography-of-woman-in-pink-shirt-1199590.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/floor_exercise.gif",
+            "seconds": "30"
+        },
+
+
+
+        {
+            "id": "22",
+            "title": "Gym Workout",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/active-adult-athlete-body-416778.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/gym_workout.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "23",
+            "title": "Jogging",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/brandless-VKnjdEesFxw-unsplash.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/jogging.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "24",
+            "title": "Jogging Home",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/cathy-pham-3jAN9InapQI-unsplash.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/jogging_home.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "25",
+            "title": "Leg Cycle",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/christopher-campbell-kFCdfLbu6zA-unsplash.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/leg_cycle.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "26",
+            "title": "Leg Exercise",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/juan-pablo-rodriguez-X6jtULYJQz8-unsplash.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/leg_exercise.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "27",
+            "title": "Lower Abs Exercise",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/mr-lee-f4RBYsY2hxA-unsplash.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/lower-abs-excersice.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "28",
+            "title": "Morning Exercise",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/selective-focus-photography-of-woman-in-pink-shirt-1199590.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/morning_exercise.gif",
+            "seconds": "30"
+        },
+
+
+
+
+
+
+
+        {
+            "id": "29",
+            "title": "Morning Exercise 2",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/active-adult-athlete-body-416778.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/morning_exercise_2.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "30",
+            "title": "One Arm Dumbbell",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/brandless-VKnjdEesFxw-unsplash.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/one_arm_dumbbell.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "31",
+            "title": "Pelvic Tilt",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/cathy-pham-3jAN9InapQI-unsplash.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/pelvic_tilt.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "32",
+            "title": "Pop Squats",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/christopher-campbell-kFCdfLbu6zA-unsplash.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/pop_squats.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "33",
+            "title": "Prisoner Squats",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/juan-pablo-rodriguez-X6jtULYJQz8-unsplash.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/prisoner_squat.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "34",
+            "title": "Pushups",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/mr-lee-f4RBYsY2hxA-unsplash.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/pushps.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "35",
+            "title": "Pushups 2",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/selective-focus-photography-of-woman-in-pink-shirt-1199590.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/pushups_2.gif",
+            "seconds": "30"
+        },
+
+
+
+
+
+
+        {
+            "id": "36",
+            "title": "Sephia Tone",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/active-adult-athlete-body-416778.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/sephia_tone.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "37",
+            "title": "Squat Jacks",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/brandless-VKnjdEesFxw-unsplash.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/squat_jacks.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "38",
+            "title": "Squats",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/cathy-pham-3jAN9InapQI-unsplash.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/squats.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "39",
+            "title": "Squats 2",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/christopher-campbell-kFCdfLbu6zA-unsplash.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/squats_2.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "40",
+            "title": "Squats 3",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/juan-pablo-rodriguez-X6jtULYJQz8-unsplash.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/squats_3.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "41",
+            "title": "Squats 4",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/mr-lee-f4RBYsY2hxA-unsplash.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/squats_4.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "42",
+            "title": "Standing Core Exercise",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/selective-focus-photography-of-woman-in-pink-shirt-1199590.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/standing-core-exercise.gif",
+            "seconds": "30"
+        },
+
+        
+
+
+
+
+
+
+        {
+            "id": "43",
+            "title": "Standing Ab",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/active-adult-athlete-body-416778.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/standing_ab.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "44",
+            "title": "Strengthen",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/brandless-VKnjdEesFxw-unsplash.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/strengthen.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "45",
+            "title": "Table Exercise",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/cathy-pham-3jAN9InapQI-unsplash.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/table_exercise.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "46",
+            "title": "Tone",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/christopher-campbell-kFCdfLbu6zA-unsplash.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/tone.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "47",
+            "title": "Tones Legs Workout",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/juan-pablo-rodriguez-X6jtULYJQz8-unsplash.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/tones-legs-workout.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "48",
+            "title": "Upside Leg",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/mr-lee-f4RBYsY2hxA-unsplash.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/upside_leg.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "49",
+            "title": "Washboard Abs",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/selective-focus-photography-of-woman-in-pink-shirt-1199590.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/washboard_abs.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "50",
+            "title": "Workout",
+            "thumbnail": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/thumbnails/active-adult-athlete-body-416778.jpg",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/workout_for_girls.gif",
+            "seconds": "30"
+        }
+    ]
+}
