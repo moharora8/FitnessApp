@@ -1,0 +1,91 @@
+{
+    "exercises": [
+        {
+            "id": "1",
+            "title": "5 Moves For Best Booty",
+            "thumbnail": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+            "gif": "https://media.giphy.com/media/bWYc47O3jSef6/giphy.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "2",
+            "title": "Abs Workout",
+            "thumbnail": "https://images.unsplash.com/photo-1558882475-790f42fa5b5e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+            "gif": "https://media3.giphy.com/media/l3vR3kl8djhC3OF32/200.webp?cid=ecf05e47ac72120837a84c94bad9f7691f91fda0e012446f&rid=200.webp",
+            "seconds": "30"
+        },
+        {
+            "id": "3",
+            "title": "Abs Workout 2",
+            "thumbnail": "https://images.unsplash.com/photo-1548289129-7445e236428d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+            "gif": "https://media3.giphy.com/media/26ghL71M2pOIu5Rcc/200.webp?cid=ecf05e47ac72120837a84c94bad9f7691f91fda0e012446f&rid=200.webp",
+            "seconds": "30"
+        },
+        {
+            "id": "4",
+            "title": "Armpit Fat Workout",
+            "thumbnail": "https://images.unsplash.com/photo-1534368270820-9de3d8053204?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/armpit_fat_workout.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "5",
+            "title": "Body Weight Exercise",
+            "thumbnail": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+            "gif": "https://media3.giphy.com/media/fnmk65werlZFy81pGw/giphy.webp?cid=ecf05e47ac72120837a84c94bad9f7691f91fda0e012446f&rid=giphy.webp",
+            "seconds": "30"
+        },
+        {
+            "id": "6",
+            "title": "Butt Kicks",
+            "thumbnail": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+            "gif": "https://media0.giphy.com/media/ZJLW9pIC7F2Bq/200.webp?cid=ecf05e47ac72120837a84c94bad9f7691f91fda0e012446f&rid=200.webp",
+            "seconds": "30"
+        },
+        {
+            "id": "7",
+            "title": "Butt Legs Thighs",
+            "thumbnail": "https://images.unsplash.com/photo-1532384555668-bc0c32a17ffd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+            "gif": "https://media3.giphy.com/media/EE8c8tFchNMHe/giphy.webp?cid=ecf05e47ac72120837a84c94bad9f7691f91fda0e012446f&rid=giphy.webp",
+            "seconds": "30"
+        },
+
+
+
+        {
+            "id": "8",
+            "title": "5 Moves For Best Booty",
+            "thumbnail": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+            "gif": "https://media2.giphy.com/media/UQa44aVsUd6t7lIigt/200.webp?cid=ecf05e47ac72120837a84c94bad9f7691f91fda0e012446f&rid=200.webp",
+            "seconds": "30"
+        },
+        {
+            "id": "9",
+            "title": "Abs Workout",
+            "thumbnail": "https://images.unsplash.com/photo-1558882475-790f42fa5b5e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/butt_workout_2.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "10",
+            "title": "Abs Workout 2",
+            "thumbnail": "https://images.unsplash.com/photo-1534368270820-9de3d8053204?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+            "gif": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/gif/cardio.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "11",
+            "title": "Armpit Fat Workout",
+            "thumbnail": "https://images.unsplash.com/photo-1534368270820-9de3d8053204?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+            "gif": "https://media0.giphy.com/media/xUA7aKLaNYyiHljyeY/200.webp?cid=ecf05e47ac72120837a84c94bad9f7691f91fda0e012446f&rid=200.webp",
+            "seconds": "30"
+        },
+        {
+            "id": "12",
+            "title": "Body Weight Exercise",
+            "thumbnail": "https://images.unsplash.com/photo-1532384555668-bc0c32a17ffd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+            "gif": "https://media2.giphy.com/media/OgJiGwuIlVvgs/200.webp?cid=ecf05e47a5608876bab9ab0ef1314f09c90e9eeaccd308bd&rid=200.webp",
+            "seconds": "30"
+        },
+    ]
+}
