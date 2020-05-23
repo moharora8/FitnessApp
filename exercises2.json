@@ -1,0 +1,91 @@
+{
+    "exercises": [
+        {
+            "id": "1",
+            "title": "5 Moves For Best Booty",
+            "thumbnail": "https://github.com/moharora8/FitnessApp/blob/master/img1.jpg",
+            "gif": "https://github.com/moharora8/FitnessApp/blob/master/1.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "2",
+            "title": "Abs Workout",
+            "thumbnail": "https://github.com/moharora8/FitnessApp/blob/master/img2.jpg",
+            "gif": "https://github.com/moharora8/FitnessApp/blob/master/2.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "3",
+            "title": "Abs Workout 2",
+            "thumbnail": "https://github.com/moharora8/FitnessApp/blob/master/img3.jpg",
+            "gif": "https://github.com/moharora8/FitnessApp/blob/master/3.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "4",
+            "title": "Armpit Fat Workout",
+            "thumbnail": "https://github.com/moharora8/FitnessApp/blob/master/img1.jpg",
+            "gif": "https://github.com/moharora8/FitnessApp/blob/master/4.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "5",
+            "title": "Body Weight Exercise",
+            "thumbnail": "https://github.com/moharora8/FitnessApp/blob/master/img2.jpg",
+            "gif": "https://github.com/moharora8/FitnessApp/blob/master/5.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "6",
+            "title": "Butt Kicks",
+            "thumbnail": "https://github.com/moharora8/FitnessApp/blob/master/img3.jpg",
+            "gif": "https://github.com/moharora8/FitnessApp/blob/master/6.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "7",
+            "title": "Butt Legs Thighs",
+            "thumbnail": "https://github.com/moharora8/FitnessApp/blob/master/img1.jpg",
+            "gif": "https://github.com/moharora8/FitnessApp/blob/master/8.gif",
+            "seconds": "30"
+        },
+
+
+
+        {
+            "id": "8",
+            "title": "5 Moves For Best Booty",
+            "thumbnail": "https://github.com/moharora8/FitnessApp/blob/master/img2.jpg",
+            "gif": "https://github.com/moharora8/FitnessApp/blob/master/9.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "9",
+            "title": "Abs Workout",
+            "thumbnail": "https://github.com/moharora8/FitnessApp/blob/master/img3.jpg",
+            "gif": "https://github.com/moharora8/FitnessApp/blob/master/7.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "10",
+            "title": "Abs Workout 2",
+            "thumbnail": "https://github.com/moharora8/FitnessApp/blob/master/img1.jpg",
+            "gif": "https://github.com/moharora8/FitnessApp/blob/master/10.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "11",
+            "title": "Armpit Fat Workout",
+            "thumbnail": "https://github.com/moharora8/FitnessApp/blob/master/img2.jpg",
+            "gif": "https://github.com/moharora8/FitnessApp/blob/master/11.gif",
+            "seconds": "30"
+        },
+        {
+            "id": "12",
+            "title": "Body Weight Exercise",
+            "thumbnail": "https://github.com/moharora8/FitnessApp/blob/master/img3.jpg",
+            "gif": "https://github.com/moharora8/FitnessApp/blob/master/12.gif",
+            "seconds": "30"
+        }
+    ]
+}
